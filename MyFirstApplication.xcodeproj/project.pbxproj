@@ -21,6 +21,7 @@
 		3B9BDD1319B500CF006F0616 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B9BDCF519B500CF006F0616 /* UIKit.framework */; };
 		3B9BDD1B19B500CF006F0616 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3B9BDD1919B500CF006F0616 /* InfoPlist.strings */; };
 		3B9BDD1D19B500CF006F0616 /* MyFirstApplicationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B9BDD1C19B500CF006F0616 /* MyFirstApplicationTests.m */; };
+		3B9BDD2719B507FC006F0616 /* earth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3B9BDD2619B507FC006F0616 /* earth.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		3B9BDD1819B500CF006F0616 /* MyFirstApplicationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstApplicationTests-Info.plist"; sourceTree = "<group>"; };
 		3B9BDD1A19B500CF006F0616 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3B9BDD1C19B500CF006F0616 /* MyFirstApplicationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstApplicationTests.m; sourceTree = "<group>"; };
+		3B9BDD2619B507FC006F0616 /* earth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = earth.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		3B9BDCF819B500CF006F0616 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3B9BDD2619B507FC006F0616 /* earth.jpg */,
 				3B9BDCF919B500CF006F0616 /* MyFirstApplication-Info.plist */,
 				3B9BDCFA19B500CF006F0616 /* InfoPlist.strings */,
 				3B9BDCFD19B500CF006F0616 /* main.m */,
@@ -232,6 +235,7 @@
 				3B9BDD0A19B500CF006F0616 /* Images.xcassets in Resources */,
 				3B9BDCFC19B500CF006F0616 /* InfoPlist.strings in Resources */,
 				3B9BDD0519B500CF006F0616 /* Main.storyboard in Resources */,
+				3B9BDD2719B507FC006F0616 /* earth.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
